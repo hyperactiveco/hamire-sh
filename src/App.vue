@@ -3,7 +3,7 @@ import { ref } from 'vue'
 import { CheckCircleIcon, QrCodeIcon, ChartBarIcon, CheckBadgeIcon } from '@heroicons/vue/24/solid'
 
 const features = [
-  'Informacione të menjëhershme ushqyese',
+  'Informata të menjëhershme ushqyese',
   'Rekomandime të personalizuara shëndetësore',
   'Paralajmërime për alergjenët',
   'Ndjekja e objektivave',
